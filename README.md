@@ -1,4 +1,6 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phplego&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phplego&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phplego&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phplego&theme=github)
 
 ### Hi there 👋
 
