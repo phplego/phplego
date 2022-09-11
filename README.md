@@ -1,3 +1,5 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phplego&theme=default)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
