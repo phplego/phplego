@@ -3,10 +3,10 @@
 ---
 
 <div align="center">
-  <a href="#">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phplego&theme=github"/></br>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phplego&theme=github"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phplego&theme=github"/>
+  
+  <a href="javascript:void(0)"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phplego&theme=github"/></a></br>
+  <a href="javascript:void(0)"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phplego&theme=github"/></a>
+  <a href="javascript:void(0)"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phplego&theme=github"/></a>
 </div>
 
 
